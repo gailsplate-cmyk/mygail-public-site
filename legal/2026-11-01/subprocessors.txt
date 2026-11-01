@@ -1,0 +1,38 @@
+Subprocessors and service providers
+Effective November 1, 2026 · Version 1.0
+
+Updated November 1, 2026 · MYGAIL INC. / GailsPlate
+
+This disclosure describes providers used by the current app and websites. A provider’s role depends on the feature you use; some platforms act independently under their own terms rather than solely as our processor. We do not give every provider all of your information.
+
+Supabase — authentication, database and private photo storage
+
+Processes account details and saved profile, pantry, grocery, meal, recipe, memory and cooking-log data, including optional private finished-meal photos. Regional project storage and provider support/subprocessors can involve overseas processing. We do not promise a specific residency location here; request the current project-specific country information from our privacy contact. Provider information: https://supabase.com/privacy and https://supabase.com/legal/customer-resources/subprocessor-list.
+
+Render — authenticated backend hosting
+
+Processes requests, account identifiers and the content needed for requested backend features, including requests forwarded to OpenAI. The current service region is Oregon, United States. Operational and security logs may also be generated. Provider information: https://render.com/privacy.
+
+OpenAI — requested AI responses
+
+Receives the current prompt and relevant account context described in the Privacy Policy. Finished-meal photos are not sent to OpenAI through the cooking-log feature. Applicable API terms, account controls and provider processing/retention arrangements govern this data; no zero-retention or Canada-only processing is promised. Provider information: https://openai.com/policies/privacy-policy/ and https://openai.com/policies/sub-processor-list/.
+
+Kit — website email waitlist
+
+Receives the name/email and form/source information submitted to the waitlist and manages confirmation and email communications. This is separate from an app account. Kit is a United States-based provider with international processing arrangements described in its policies. Provider information: https://kit.com/privacy.
+
+Sites / Cloudflare — GailsPlate website delivery
+
+Delivers the GailsPlate website and can process request metadata such as IP address, browser details, requested URLs and operational/security logs. Cloudflare operates globally; viewing a website is not confined to Canadian infrastructure. The public waitlist form submits to Kit. Provider information: https://www.cloudflare.com/privacypolicy/ and https://openai.com/policies/privacy-policy/.
+
+GitHub Pages — MyGail website delivery
+
+Hosts the MyGail static website and legal pages when served through GitHub Pages and can process website connection and operational data. Provider information: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
+
+Apple, Google and Expo — platform functions
+
+Apple and Google process the information needed when you choose their sign-in services, use their app distribution systems or make a future store purchase. Expo/EAS packages and distributes builds, including Android download artifacts; downloading a build may generate delivery logs. These platform relationships also have independent terms and privacy notices.
+
+Countries, updates and enquiries
+
+MYGAIL INC. operates from Canada. Providers can process data in the United States and other countries where they and their subprocessors operate. Provider-wide location lists do not establish the location of every record; contact privacy@gailsplate.com or dalton@mygail.com for current feature-specific processing information. We will update this list as material arrangements change and provide additional notice or obtain consent where law requires it.

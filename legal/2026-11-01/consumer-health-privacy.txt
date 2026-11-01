@@ -1,0 +1,30 @@
+Consumer Health Data Privacy Policy
+Effective November 1, 2026 · Version 1.0
+
+Effective November 1, 2026 · MYGAIL INC., operator of GailsPlate
+
+This notice describes consumer health data processed through GailsPlate and the related mygail.com and gailsplate.com services. It supplements the general Privacy Policy for health data, including where Washington’s My Health My Data Act or other consumer-health law applies.
+
+Data categories and purposes
+
+You may provide allergies or sensitivities, dietary restrictions, wellness goals, mood or emotional check-ins, health-related notes and conversations, and meal or recipe activity that can reveal health information. We use this information to provide the food-support, personalization, memory or meal-planning feature you request, maintain your account, and protect the service. We may derive dietary or preference context from your entries to support that requested feature.
+
+Sources
+
+Sources are you, your account settings and content, your interactions with Gail, and the meal, recipe, pantry and grocery activity you choose to record. We do not obtain health records from medical providers or health-data brokers, or collect precise location to infer visits to health services.
+
+Recipients and purposes
+
+Account-associated health context may be processed by Supabase for account data/storage, Render for backend processing, and OpenAI when needed for the AI reply you request. Website infrastructure, including Sites/Cloudflare and GitHub Pages, can receive ordinary request/connection data when you view pages. Limited disclosures may also be required for security, lawful requests or a legally permitted business transfer. We do not identify any affiliate as a current recipient of consumer health data. Kit receives waitlist contact information; we do not intentionally send your in-app health context to the waitlist provider.
+
+Choices
+
+We do not sell consumer health data, use it for targeted advertising, or use health-facility geofencing. We limit processing to the disclosed requested service and purposes permitted by law. Where a separate consent is required for collection or sharing beyond the service you request, it must be obtained before that processing. General Terms acceptance does not replace such consent. You may decline optional health entries or contact us to withdraw consent; a feature may be unavailable if it needs that information.
+
+Your requests
+
+Email privacy@gailsplate.com or dalton@mygail.com to confirm processing, access your data and recipient information, withdraw consent or request deletion. You may use in-app account deletion where available. We may authenticate the request without requiring a new account. Applicable law controls response deadlines, extensions and backup deletion. If we deny a request, you may appeal by replying with “Privacy appeal”; we will explain our decision and further complaint options. Washington consumers may complain to the Washington Attorney General at atg.wa.gov. We do not unlawfully discriminate for exercising these rights.
+
+Contact
+
+MYGAIL INC. (GailsPlate), Site 4, Box 15, RR 2, Carstairs, Alberta T0M 0N0, Canada. Privacy enquiries: privacy@gailsplate.com; alternative business contact: dalton@mygail.com.
