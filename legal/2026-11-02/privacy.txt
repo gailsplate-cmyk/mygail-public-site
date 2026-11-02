@@ -1,0 +1,413 @@
+MG-L-001
+
+GailsPlate Privacy Policy
+
+Document ID: MG-L-001
+
+Version: 1.1
+
+Effective Date: November 2, 2026
+
+Last Updated: November 2, 2026
+
+Definitions & Scope
+
+Definitions
+
+For the purposes of this Privacy Policy:
+
+“MyGail Inc.”, “we”, “us” and “our” mean MyGail Inc., an Alberta corporation, including when operating under its trade name GailsPlate, which owns and operates the Services and is the organization accountable for Personal Information under its control in accordance with this Privacy Policy.
+
+“GailsPlate” means the GailsPlate mobile application, website, and related Services owned and operated by MyGail Inc., and also means MyGail Inc., including in its capacity as operator of those Services.
+
+“Services” means the GailsPlate mobile application, gailsplate.com, AI-powered features, recipes, meal planning tools, pantry management features, grocery lists, wellness-related features, subscriptions, waitlist services, and related services provided by GailsPlate.
+
+“Personal Information” means information about an identifiable individual, including information that identifies, relates to, describes, or can reasonably be associated with that individual.
+
+“User” means any individual who accesses or uses the Services.
+
+“User Content” means information or materials voluntarily submitted, uploaded, created, or stored by a User through the Services, including recipes, notes, grocery lists, pantry items, meal plans, AI conversations, photographs where supported, and other content.
+
+Scope
+
+This Privacy Policy describes how GailsPlate collects, uses, discloses, stores, protects, and otherwise processes Personal Information when Users access or use the Services, including the GailsPlate mobile application and gailsplate.com.
+
+This Privacy Policy applies to Personal Information collected through the Services unless otherwise stated.
+
+GailsPlate processes Personal Information in accordance with this Privacy Policy and applicable law. Where applicable law requires GailsPlate to obtain consent for a particular use or disclosure of Personal Information, GailsPlate will seek that consent in the manner required by law.
+
+1. Introduction
+
+GailsPlate is committed to protecting the privacy of its Users and handling Personal Information responsibly.
+
+This Privacy Policy explains:
+
+• what Personal Information GailsPlate collects;
+
+• how Personal Information is collected;
+
+• how Personal Information is used;
+
+• when Personal Information may be shared;
+
+• how Personal Information is protected;
+
+• how AI-powered features may process information provided by Users;
+
+• how website and waitlist information is collected and used;
+
+• how long Personal Information may be retained and how account deletion is handled;
+
+• the choices and privacy rights available to Users; and
+
+• how Users may contact GailsPlate regarding privacy matters.
+
+This Privacy Policy should be read together with the GailsPlate Terms of Service, Health & Wellness Disclaimer, Subscription, Billing & Cancellation Policy, and Data Deletion Policy.
+
+2. Information We Collect
+
+GailsPlate may collect the following categories of Personal Information:
+
+Account Information
+
+Information provided when creating or managing an account, including:
+
+• name;
+
+• email address;
+
+• authentication-related information;
+
+• account preferences; and
+
+• subscription status.
+
+Authentication may be supported through Supabase Auth and optional Apple or Google sign-in. GailsPlate does not intend to collect or store authentication secrets in a manner inconsistent with the authentication service used to operate the account.
+
+Profile and Wellness Information
+
+Information voluntarily provided by Users to personalize the Services, including:
+
+• dietary preferences;
+
+• food allergies or sensitivities;
+
+• wellness-related information;
+
+• food or health goals;
+
+• pantry information;
+
+• meal preferences;
+
+• mood or emotional check-ins;
+
+• personal notes; and
+
+• other information Users choose to provide.
+
+Some information voluntarily provided by Users may be sensitive or personal in nature. Users should use their discretion when deciding what information to provide through the Services.
+
+User Content
+
+Information voluntarily submitted through the Services, including:
+
+• recipes;
+
+• notes;
+
+• grocery lists;
+
+• pantry items;
+
+• meal plans;
+
+• AI conversations;
+
+• recipe ratings and meal activity;
+
+• photographs or images where such functionality is made available; and
+
+• other content uploaded or created by the User.
+
+User Content may constitute Personal Information where it identifies or can reasonably be associated with a User. User Content is handled in accordance with this Privacy Policy. Ownership and permitted use of User Content are addressed in the GailsPlate Terms of Service.
+
+Under the current implementation, ordinary meal and pantry photo references remain on the User’s device and are not uploaded through routine cloud synchronization. If a signed-in User chooses to attach a finished-meal photo to a completed-recipe log, the photo is uploaded through the authenticated backend to private Supabase Storage and associated with that User’s account. The photo is not made publicly accessible and is accessed through short-lived signed URLs. Finished-meal photos are not sent to OpenAI. Grocery-image AI scanning is not available in the beta or initial public version of the Services.
+
+Website and Waitlist Information
+
+When a person joins the GailsPlate waitlist or submits information through gailsplate.com, GailsPlate may collect:
+
+• name;
+
+• email address;
+
+• the source or campaign through which the person accessed the website; and
+
+• the date and time of the submission.
+
+Source information may be collected through a tagged website address, such as a link containing a source parameter, so GailsPlate can understand which promotional or outreach channels generate interest.
+
+Waitlist email information may be stored and managed through Kit for GailsPlate communications.
+
+GailsPlate does not sell, rent, or trade waitlist email addresses or other Personal Information for the benefit of third parties. GailsPlate may use service providers to store, manage, and deliver communications on GailsPlate’s behalf.
+
+Technical and Operational Information
+
+GailsPlate may automatically collect certain technical information necessary to operate, secure, maintain, and improve the Services, including:
+
+• device information;
+
+• operating system;
+
+• browser or application information;
+
+• IP address;
+
+• application version;
+
+• usage information;
+
+• diagnostic information; and
+
+• security and operational log information.
+
+GailsPlate does not currently use dedicated third-party analytics or crash-reporting SDKs such as Sentry, PostHog, Firebase Analytics, Crashlytics, Mixpanel, Amplitude, or Segment. Hosting and database providers may nevertheless generate ordinary operational and security logs.
+
+Communications. 
+
+If a User contacts us or requests support, we collect the content of that communication and any information the User chooses to provide.
+
+Subscription Information
+
+Where applicable, GailsPlate may receive information relating to subscription status, payment confirmation, and renewal information from the platform through which a subscription was purchased.
+
+GailsPlate does not collect or store complete payment card information processed by third-party payment providers.
+
+3. How We Collect Personal Information
+
+GailsPlate collects Personal Information through the following methods:
+
+Information Provided by Users
+
+Users may voluntarily provide Personal Information when they:
+
+• create or manage an account;
+
+• complete profile information;
+
+• enter dietary preferences or wellness-related information;
+
+• save recipes, grocery lists, pantry items, or meal plans;
+
+• communicate with Gail’s AI-powered features;
+
+• upload User Content where supported;
+
+• join the GailsPlate waitlist;
+
+• contact GailsPlate for support; or
+
+• otherwise interact with the Services.
+
+Information Collected Automatically
+
+When Users access the Services, GailsPlate may automatically collect certain technical and usage information necessary to operate, secure, maintain, and improve the Services.
+
+Information Received from Third Parties
+
+GailsPlate may receive limited information from third-party services necessary to operate the Services, including authentication, subscription, payment, hosting, database, communications, and AI service providers.
+
+Examples include information associated with optional Apple or Google sign-in, subscription platforms, and service providers used to operate GailsPlate.
+
+4. How We Use Personal Information
+
+GailsPlate uses Personal Information for legitimate business and operational purposes, including to:
+
+• provide and operate the Services;
+
+• personalize recipes, meal planning, and wellness-related features;
+
+• provide Gail’s AI-powered responses and recommendations based on information Users choose to provide;
+
+• maintain Gail’s conversation memory and personalization features;
+
+• operate and communicate with individuals on the GailsPlate waitlist;
+
+• understand the effectiveness of promotional or outreach channels;
+
+• authenticate Users;
+
+• manage subscriptions and accounts;
+
+• provide customer support;
+
+• improve the functionality, reliability, security, and performance of the Services;
+
+• communicate with Users regarding their accounts, subscriptions, launch, or the Services;
+
+• detect, prevent, and investigate fraud, misuse, security incidents, or unauthorized access;
+
+• comply with legal obligations
+
+• maintain the security, integrity, and proper functioning of the Services including detecting and preventing misuse; and
+
+• protect the rights, property, safety, and security of GailsPlate, its Users, and others.
+
+GailsPlate’s authority to collect, use, and disclose Personal Information in this manner is the User’s consent, given by subscribing to the Services and agreeing to our Terms of Service, and, where applicable, our legitimate interest in operating and securing the Services in a manner a User would reasonably expect.
+
+5. AI-Powered Features and OpenAI
+
+GailsPlate uses OpenAI through GailsPlate’s backend to provide Gail’s AI-powered conversational and personalization features.
+
+When a User interacts with Gail, GailsPlate may send the User’s current message together with relevant information from the User’s GailsPlate account to OpenAI to generate a response. Depending on the User’s use of the Services, this information may include recent conversation history, dietary preferences, allergies or sensitivities, wellness or health-related context, personal notes, mood or emotional check-ins, pantry information, recipe preferences or ratings, meal activity, and information stored for Gail’s memory and personalization.
+
+GailsPlate does not currently use User conversations or Personal Information to train or fine-tune AI models. OpenAI states that information submitted through its API is not used to train its models unless the API organization explicitly opts in to applicable data-sharing programs. GailsPlate does not currently opt in to such programs.
+
+OpenAI may retain API inputs and outputs for a limited period for purposes such as abuse monitoring, subject to OpenAI’s applicable policies, legal or security exceptions, and the data-retention controls configured for GailsPlate’s API organization.
+
+GailsPlate separately retains certain conversation history and personalization information in the User’s GailsPlate account to provide Gail’s memory and personalization features. Under the current implementation, up to 100 recent chat turns may be retained for this purpose.
+
+GailsPlate does not currently offer grocery-image AI scanning as part of the beta or first public version of the Services. Any future feature that introduces additional AI processing of images or other new categories of Personal Information will be reviewed and, where appropriate, reflected in an updated Privacy Policy before release. GailsPlate will provide Users with reasonable advance notice that the feature is being enabled, through the Services or by email, consistent with Section 13, below (Changes to this Privacy Policy).
+
+6. Disclosure of Personal Information
+
+GailsPlate does not sell, rent, or trade Personal Information.
+
+Personal Information may be disclosed where reasonably necessary to operate the Services, provide a feature requested by a User, or where required or permitted by applicable law.
+
+Service Providers
+
+GailsPlate may use trusted third-party service providers as sub-processors to process Personal Information on GailsPlate’s behalf, to support authentication, cloud hosting, database storage, payment processing, communications, artificial intelligence, and other operational functions. These providers may include payment processors who handle billing, and professional advisors such as our accountants and lawyers, in each case bound by confidentiality and data protection obligations appropriate to the sensitivity of the information; a purchaser or successor in connection with a merger, acquisition, or sale of assets relating to the Services, subject to that party assuming our obligations under this Policy; and any party to whom disclosure is required by applicable law or a valid order of a court or regulator.
+
+We maintain a current list of the categories of service providers and sub-processors who may process Personal Information on our behalf at https://gailsplate.com/subprocessors.
+
+These providers are authorized to process Personal Information as reasonably necessary to provide their services to GailsPlate and are subject to applicable contractual and legal obligations.
+
+Provided, however, that each third-party service provider maintains its own terms of service, acceptable use terms, and privacy policy governing its services, which apply to that provider's processing of information in addition to, and in some cases instead of, this Privacy Policy. Where a User directly interacts with a third-party service, that third party's privacy practices apply to that interaction. While GailsPlate seeks to engage reputable providers and to limit each provider's access to the Personal Information reasonably necessary to perform its function, GailsPlate does not control and cannot guarantee the practices of third-party providers, and cannot guarantee that Personal Information transmitted to or processed by a provider (including User Content, AI conversations, and wellness-related information) will not be accessed, viewed, retained, or disclosed by that provider or its personnel or sub-processors in accordance with that provider's terms, policies, and applicable law. Users are encouraged to review the terms and privacy policies of the third-party providers identified above before using the Services.
+
+Legal Requirements
+
+GailsPlate may disclose Personal Information where required or permitted by applicable law, including where necessary to comply with legal obligations, respond to lawful requests, enforce GailsPlate’s legal rights, investigate suspected fraud or misuse, or protect the safety, security, rights, or property of GailsPlate, its Users, or others.
+
+Business Transactions
+
+If GailsPlate is involved in a merger, acquisition, financing, sale of assets, corporate restructuring, or similar business transaction, Personal Information may be transferred as part of that transaction, subject to applicable legal requirements and appropriate safeguards.
+
+The Services rely on third-party providers to support authentication, cloud hosting, database storage, payment processing, communications, artificial intelligence, and other operational functions.
+
+Third-party providers may maintain their own privacy policies and terms governing their services. Where a User directly interacts with a third-party service, the third party’s privacy practices may also apply.
+
+7. Data Storage, Retention & Security
+
+Data Storage and Cross-Border Processing
+
+GailsPlate is operated from Canada. Personal Information collected through the Services may be processed, stored, accessed, or transferred by GailsPlate and by its third-party service providers in jurisdictions outside Canada, including the United States and, depending on the provider and its configuration, the European Union and other jurisdictions in which those providers or their sub-processors operate infrastructure or support functions. Transfers outside Canada occur for the purposes described in this Privacy Policy, including cloud hosting and database storage, authentication, AI-powered features, communications and email delivery, payment and subscription processing, and technical support, security, and maintenance of the Services.
+
+While Personal Information is outside Canada, it is subject to the laws of the jurisdiction in which it is located. This means that courts, law enforcement agencies, regulators, national security authorities, and other governmental bodies in that jurisdiction may, in certain circumstances, be entitled to obtain access to that Personal Information under the laws of that jurisdiction, including without a User's knowledge or consent, and that the legal protections available in that jurisdiction may differ from those available under Canadian law.
+
+GailsPlate remains accountable for Personal Information transferred to a service provider for processing. GailsPlate uses contractual and other means to require that its service providers provide a comparable level of protection to that required under applicable Canadian privacy law while the Personal Information is being processed on GailsPlate's behalf,’snd to limit each provider's use of that Personal Information to the purposes for which it was transferred. GailsPlate does not, however, control the laws of the jurisdictions in which its providers operate and cannot prevent a lawful demand for access made under those laws.
+
+Acknowledgment and Consent to Cross-Border Processing. By creating an account, submitting information through the Services, or otherwise using the Services, a User acknowledges that Personal Information will be transferred to, processed in, and stored in jurisdictions outside Canada as described in this Section, acknowledges the risks described above (including the possibility of lawful access by foreign authorities), and consents to that transfer, processing, and storage. Where a User does not wish to have Personal Information processed outside Canada, the User should not use the Services. Where applicable law requires a separate or express consent for a particular cross-border transfer, GailsPlate will obtain that consent in the manner required by law. A User may contact GailsPlate using the privacy contact information at the end of this Privacy Policy for information about GailsPlate's policie’sand practices respecting service providers located outside Canada, including the identity of the jurisdictions in which Personal Information may be processed.
+
+Security
+
+GailsPlate uses reasonable administrative, technical, and organizational safeguards designed to protect Personal Information against unauthorized access, disclosure, alteration, loss, misuse, or destruction.
+
+While GailsPlate takes reasonable steps to protect Personal Information, no method of electronic storage, transmission over the Internet, or information security system can be guaranteed to be completely secure.
+
+Users are responsible for maintaining the confidentiality of their account credentials and for notifying GailsPlate of any suspected unauthorized access to their account.
+
+GailsPlate regularly reviews and updates its security practices as the Services evolve.
+
+Data Retention
+
+GailsPlate retains Personal Information and User Content for as long as reasonably necessary to provide the Services, maintain User accounts, comply with applicable legal and regulatory requirements, resolve disputes, prevent fraud and misuse, maintain security, and fulfill the other purposes described in this Privacy Policy.
+
+GailsPlate does not apply a single fixed retention period to all Personal Information. Retention periods depend on the nature of the information, the purposes for which it was collected, its sensitivity, applicable legal requirements, and GailsPlate's reasonable business and operational needs. Personal Information that is no longer reasonably required for legal or business purposes will be securely deleted or rendered non-identifying within a reasonable period.
+
+Account information and User Content are generally retained while an account remains active. Users may delete certain information through the Services or request deletion of their account in accordance with the GailsPlate Terms of Service. Certain information may continue to be retained following account deletion where reasonably necessary for legal, regulatory, accounting, security, fraud-prevention, or dispute-resolution purposes. Information held in backup systems or by third-party service providers may remain subject to applicable retention cycles and requirements, as further described in the Terms of Service.
+
+GailsPlate may retain and use aggregated or anonymized information for legitimate business purposes, including analytics, service improvement, and industry benchmarking, provided that such information does not reasonably identify an individual and is handled in accordance with applicable law. Users may contact GailsPlate using the contact information below for further information about its retention practices. 
+
+8. Your Privacy Rights and Choices
+
+Subject to applicable law, Users may have the right to:
+
+• access Personal Information maintained by GailsPlate;
+
+• request correction of inaccurate or incomplete Personal Information;
+
+• request deletion of Personal Information, subject to legal or operational requirements;
+
+• withdraw consent where consent is the legal basis for processing;
+
+• request information regarding how Personal Information is processed; and
+
+• submit privacy-related questions or concerns.
+
+A User may withdraw consent subject to legal, contractual, technical, or other reasonable limitations. Withdrawal of consent does not affect the lawfulness of processing that occurred before consent was withdrawn.
+
+Requests may be submitted using the privacy contact information provided at the end of this Privacy Policy. GailsPlate may require reasonable information to verify the identity of the person making a request and to protect Personal Information from unauthorized disclosure.
+
+Certain requests may be subject to exceptions or limitations under applicable law.
+
+9. Account Deletion
+
+Users may request deletion of their GailsPlate account at any time by using the Delete Account feature available within the Services.
+
+Deleting an account will begin the account deletion process in accordance with Terms of Service.
+
+Account deletion is intended to be permanent once completed. Certain information may be retained where required or permitted by applicable law, as described in this Privacy Policy and the Terms of Service.
+
+Deleting a GailsPlate account does not automatically cancel subscriptions purchased through the Apple App Store or Google Play. Users remain responsible for managing subscriptions through the platform from which the subscription was purchased.
+
+10. Children’s Privacy
+
+The Services are intended for individuals 18 years of age or older.
+
+GailsPlate does not knowingly collect Personal Information from individuals under the age of 18.
+
+If GailsPlate becomes aware that Personal Information has been collected from an individual under the age of 18 without appropriate authorization, reasonable steps will be taken to delete that information in accordance with applicable law.
+
+11. International Users
+
+Users who access the Services from outside Canada should understand that GailsPlate and its service providers may process Personal Information in Canada, the United States, or other jurisdictions.
+
+Users who access the Services from outside Canada are responsible for determining whether their use of the Services complies with the laws applicable to them.
+
+12. Changes to this Privacy Policy
+
+GailsPlate may update this Privacy Policy from time to time to reflect changes in applicable law, business practices, technology, or the Services.
+
+The “Last Updated” date will be revised whenever material changes are made.
+
+GailsPlate will provide appropriate notice of material changes and obtain consent where required.
+
+13. Contact Information
+
+Questions regarding this Privacy Policy or GailsPlate’s privacy practices may be directed to:
+
+MYGAIL INC. (GailsPlate)
+
+Site 4, Box 15, RR 2
+
+Carstairs, Alberta
+
+T0M 0N0
+
+Canada
+
+General Support
+
+hello@gailsplate.com
+
+Privacy Inquiries
+
+privacy@gailsplate.com
+
+14. Governing Law
+
+This Privacy Policy shall be governed by and interpreted in accordance with the laws of the Province of Alberta and the applicable laws of Canada, subject to any mandatory privacy rights or requirements that apply to a User under applicable law.
+
+The official language of this Privacy Policy is English.
