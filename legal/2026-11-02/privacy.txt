@@ -174,7 +174,7 @@ GailsPlate may automatically collect certain technical information necessary to 
 
 GailsPlate does not currently use dedicated third-party analytics or crash-reporting SDKs such as Sentry, PostHog, Firebase Analytics, Crashlytics, Mixpanel, Amplitude, or Segment. Hosting and database providers may nevertheless generate ordinary operational and security logs.
 
-Communications. 
+Communications.
 
 If a User contacts us or requests support, we collect the content of that communication and any information the User chooses to provide.
 
@@ -328,7 +328,7 @@ GailsPlate does not apply a single fixed retention period to all Personal Inform
 
 Account information and User Content are generally retained while an account remains active. Users may delete certain information through the Services or request deletion of their account in accordance with the GailsPlate Terms of Service. Certain information may continue to be retained following account deletion where reasonably necessary for legal, regulatory, accounting, security, fraud-prevention, or dispute-resolution purposes. Information held in backup systems or by third-party service providers may remain subject to applicable retention cycles and requirements, as further described in the Terms of Service.
 
-GailsPlate may retain and use aggregated or anonymized information for legitimate business purposes, including analytics, service improvement, and industry benchmarking, provided that such information does not reasonably identify an individual and is handled in accordance with applicable law. Users may contact GailsPlate using the contact information below for further information about its retention practices. 
+GailsPlate may retain and use aggregated or anonymized information for legitimate business purposes, including analytics, service improvement, and industry benchmarking, provided that such information does not reasonably identify an individual and is handled in accordance with applicable law. Users may contact GailsPlate using the contact information below for further information about its retention practices.
 
 8. Your Privacy Rights and Choices
 
